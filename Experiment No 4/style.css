@@ -1,0 +1,14 @@
+<style> 
+div { 
+	box-sizing: border-box; 
+	width: 100%; 
+	border: 100px solid black; 
+	 
+	align-content: left; 
+	align-items: left; 
+} 
+
+form { 
+	margin: 0 auto; 
+	width: 600px; 
+}</style> 
