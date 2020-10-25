@@ -30,6 +30,9 @@
 		</p> 
 	</form> 
 <script src="script.js"></script>
+	<?php
+echo “This is PHP code”;
+?>
 </body> 
 
 </html>
